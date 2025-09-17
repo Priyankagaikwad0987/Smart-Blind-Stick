@@ -1,0 +1,35 @@
+# Compiled files
+*.o
+*.hex
+*.elf
+
+# Arduino build folders
+*.pio
+build/
+cmake-build*/
+cmake-install*/
+bin/
+obj/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Arduino IDE backups
+*.bak
+*.tmp
+
+# Node modules (if using web interface)
+node_modules/
+
+# Python virtual environment (if using Python for data logging)
+venv/
+__pycache__/
+*.pyc
