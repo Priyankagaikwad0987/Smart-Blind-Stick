@@ -1,4 +1,4 @@
-# Name-Smart-Blind-Stick
+# Smart-Blind-Stick
 A navigation aid for visually impaired people using ultrasonic sensor &amp; buzzer alerts.
 # 🦯 Smart Blind Stick
 
